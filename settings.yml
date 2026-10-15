@@ -11,6 +11,6 @@ search:
     - json
 
 server:
-  limiter: false
+  limiter: true
   public_instance: false
   
